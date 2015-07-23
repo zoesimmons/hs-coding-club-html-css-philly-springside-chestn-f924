@@ -57,4 +57,8 @@ If you want to start adding your own styling, like changing background or font c
 
 #### Step 4: Deploy! 
 
+TODO - find easy way to deploy
+
+
+
 
