@@ -2,7 +2,9 @@
 
 ## By building your own personal website
 
-In these days, pretty much every person you meet is googleable. For most of them, you'll even find a personal website that tells you about that person, acts as an online portfolio, marks their accomplishments and even provides a way to contact them. This digital portfolio has become a professional "must have". Even the Minions have a portfolio!
+<img src="https://s3.amazonaws.com/after-school-assets/minions.jpg" width="300px" align="right" hspace="10">
+
+These days, pretty much every person you meet is googleable. For most of them, you'll even find a personal website that tells you about that person, acts as an online portfolio, marks their accomplishments and even provides a way to contact them. This digital portfolio has become a professional "must have". Even the Minions have a portfolio!
 
 ### Let's Get Started
 
