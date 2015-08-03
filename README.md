@@ -21,7 +21,7 @@ You should see a lot of different files and directories in this project. This is
 
 + `font-awesome-4.1.0` - This directory contains the fonts used on the page, some styling on those fonts. Do not edit any files in this directory. 
 
-+ `fonts` - This directory contains a bunch of glyphicons used in the site. Don't edit anything on this page. 
++ `fonts` - This directory contains a bunch of glyphicons used in the site. Don't edit anything in this directory. 
 
 + `img` - This directory contains all the images used on the page. Any images you want to display on your website should be saved here
 
@@ -52,14 +52,11 @@ These comments mark sections where you can change the text of the page. Remember
 
 #### Step 3: CSS 
 
-You'll want to leave all the ID's and classes that are predefined on then page the same. Those are used in the styling that's already provided for you.
+You'll want to leave all the ID's and classes that are predefined on the page the same. Those are used in the styling that's already provided for you.
 
 If you want to start adding your own styling, like changing background or font colors, you can write your own CSS in `css/my_style.css`. You will want to define your own ids and classes in the HTML and then use those in your css.
 
 
-#### Step 4: Deploy! 
-
-TODO - find easy way to deploy
 
 
 
