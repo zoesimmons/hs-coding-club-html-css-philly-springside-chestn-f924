@@ -54,9 +54,14 @@ These comments mark sections where you can change the text of the page. Remember
 
 You'll want to leave all the ID's and classes that are predefined on the page the same. Those are used in the styling that's already provided for you.
 
-If you want to start adding your own styling, like changing background or font colors, you can write your own CSS in `css/my_style.css`. You will want to define your own ids and classes in the HTML and then use those in your css.
+If you want to start adding your own styling, like changing background or font colors, you can write your own CSS in `css/my_style.css`. You will want to define your own IDs and classes in the HTML and then use those in your CSS.
 
-#### Step 4: Share Share Share!
+#### Step 4: Done and Done
+
+In Nitrous, in terminal, enter `learn submit` to make sure you mark this lesson as complete in Learn (and store all your amazing work on GitHub)!
+
+
+#### Step 5: Share Share Share!
 
 Once you're done, it's time to market your site. Screen shot your site or your code and share with **\#flatironcodeclub** and **\#ibuiltthis**. 
 
