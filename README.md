@@ -4,11 +4,11 @@
 
 <img src="https://s3.amazonaws.com/after-school-assets/minions.jpg" width="300px" align="right" hspace="10">
 
-These days, pretty much every person you meet is googleable. For most of them, you'll even find a personal website that tells you about that person, acts as an online portfolio, marks their accomplishments and even provides a way to contact them. This digital portfolio has become a professional "must have". Even the Minions have a portfolio!
+These days, pretty much every person you meet is Googleable. For most of them, you'll even find a personal website that tells you about that person, acts as an online portfolio, marks their accomplishments, and even provides a way to contact them. This digital portfolio has become a professional "must have." Even the Minions have a portfolio!
 
 ### Let's Get Started
 
-In order to access this directory, select the `Open In Nitrous` button at the top of Learn.co
+In order to access this directory, select the `Open In Nitrous` button at the top of Learn.
 
 <img src="https://s3.amazonaws.com/after-school-assets/open-in-nitrous.png">
 
@@ -36,7 +36,7 @@ Once you have the server running, select `preview` and then `port 3000`.
 
 <img src="https://s3.amazonaws.com/after-school-assets/nitrous-preview.png" alt="nitrous preview">
 
-Voila, the Minion's site!
+Voila, the Minions' site!
 
 #### Step 2: HTML
 
