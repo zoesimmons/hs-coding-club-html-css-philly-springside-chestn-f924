@@ -56,6 +56,11 @@ You'll want to leave all the ID's and classes that are predefined on the page th
 
 If you want to start adding your own styling, like changing background or font colors, you can write your own CSS in `css/my_style.css`. You will want to define your own ids and classes in the HTML and then use those in your css.
 
+#### Step 4: Share Share Share!
+
+Once you're done, it's time to market your site. Screen shot your site or your code and share with **\#flatironcodeclub** and **\#ibuiltthis**. 
+
+
 
 
 
