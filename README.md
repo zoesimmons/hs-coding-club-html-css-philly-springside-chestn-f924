@@ -8,9 +8,9 @@ These days, pretty much every person you meet is Googleable. For most of them, y
 
 ### Let's Get Started
 
-In order to access this directory, select the `Open In Nitrous` button at the top of Learn.
+In order to access this directory, select the `Open` button at the top of Learn.
 
-<img src="https://s3.amazonaws.com/after-school-assets/open-in-nitrous.png">
+<img src="https://s3.amazonaws.com/after-school-assets/new-open-in-nitrous.png">
 
 #### File Structure 
 You should see a lot of different files and directories in this project. This is the code that makes up the Minion's personal website. 
