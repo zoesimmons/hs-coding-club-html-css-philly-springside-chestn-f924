@@ -72,4 +72,4 @@ Once you're done, it's time to market your site. Screen shot your site or your c
 
 
 
-<a href='https://learn.co/lessons/hs-coding-club-html-css' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-coding-club-html-css' title='Let's Get Personal!'>Let's Get Personal!</a> on Learn.co and start learning to code for free.</p>
